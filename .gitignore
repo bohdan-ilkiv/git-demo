@@ -1,0 +1,7 @@
+#hide all files with extension .db, .log
+*.db
+*.log
+
+#ignore directories
+build/
+target/
